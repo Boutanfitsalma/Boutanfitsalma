@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 À propos
+##  À propos
 
 Élève ingénieure en Business Intelligence & Analytics à l'ENSIAS, passionnée par la **Data Science**, l'**IA générative** et l'**analyse décisionnelle**. 
 
@@ -147,11 +147,12 @@ Power BI | DAX measures | KPI tracking
 
 ## 🎓 Certifications
 
-🏅 **Senior Data Scientist Career Track** - 365 Data Science (Nov 2025)  
+🏅 **Senior Data Scientist Career Track** - 365 Data Science (Novembre 2025)  
 🏅 **Associate Data Analyst** - DataCamp (Juin 2025)  
 🏅 **Data Warehousing Concepts** - DataCamp (Avril 2025)
-
-📚 **En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
+🏅 **Introduction to NoSQL** - DataCamp, Avril 2025
+🏅**Containerization and Virtualization Concepts** - DataCamp, Avril 2025
+📚 **Formation En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
 
 ---
 
