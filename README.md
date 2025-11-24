@@ -24,23 +24,61 @@
 
 ## 🛠️ Stack Technique
 
-**💾 Data & Databases**  
-`SQL Server` `PostgreSQL` `MongoDB` `Elasticsearch` `ChromaDB`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**📊 Business Intelligence**  
-`Power BI` `Tableau` `SSIS` `SSAS` `SSRS` `DAX` `Data Warehousing`
+### 💾 Data & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
 
-**🤖 AI & Machine Learning**  
-`Python` `Pandas` `NumPy` `Scikit-learn` `LangChain` `HuggingFace` `FastAPI` `RAG`
+### 📊 Business Intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
 
-**⚡ Big Data & Streaming**  
-`Apache Spark` `Kafka` `Hadoop` `ELK Stack` `Kibana`
+### 🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**🐳 DevOps & MLOps**  
-`Docker` `n8n` `Git` `CI/CD` `MLflow`
+</td>
+<td width="50%" valign="top">
 
-**☁️ Cloud (en cours)**  
-`GCP` `Azure` `AWS`
+### ⚡ Big Data & Streaming
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
+</p>
+
+### 🐳 DevOps & MLOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### ☁️ Cloud (en cours)
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 💼 Expériences Professionnelles
