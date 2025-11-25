@@ -29,7 +29,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💾 Data & Databases
+###  Data & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-### 📊 Business Intelligence
+###  Business Intelligence
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -56,21 +56,21 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Big Data & Streaming
+###  Big Data & Streaming
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
 </p>
 
-### 🐳 DevOps & MLOps
+###  DevOps & MLOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### ☁️ Cloud (en cours)
+###  Cloud (en cours)
 <p align="center">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -84,14 +84,14 @@
 
 ## 💼 Expériences Professionnelles
 
-### 🏛️ Direction Générale des Impôts (DGI)
+###  Direction Générale des Impôts (DGI)
 **Stagiaire Data Science & IA** | Juillet - Septembre 2025 | Rabat
 - Développement d'un **chatbot RAG intelligent** pour faciliter la consultation du Code Général des Impôts
 - Pipeline complet : OCR, chunking, extraction de tableaux, indexation vectorielle
 - Déploiement **Docker** avec ChromaDB et FastAPI
 - **Technologies** : Python, LangChain, ChromaDB, OpenRouter, Docker
 
-### 💧 Office National de l'Eau Potable (ONEE)
+###  Office National de l'Eau Potable (ONEE)
 **Stagiaire Data Analyst** | Juillet - Août 2024 | Rabat
 - Analyse de **6000+ enregistrements** de la plateforme Khadamat
 - Création de **tableaux de bord Power BI** pour le suivi opérationnel IT
@@ -102,42 +102,42 @@
 
 ## 🎯 Projets Phares
 
-### 🤖 [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
+###  [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
 ```
 Production-ready RAG chatbot for Moroccan Tax Administration
 Multilingual (FR/AR) | FastAPI + LangChain + ChromaDB | Dockerized
 ```
 **Impact** : Réduction de 70% du temps de recherche documentaire
 
-### 📊 [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
+###  [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
 ```
 Real-time log monitoring pipeline with anomaly detection
 Elasticsearch ML | Kibana Dashboards | Docker orchestration
 ```
 **Impact** : Détection automatique d'anomalies sur 10K+ builds/jour
 
-### 🏢 [EvalLLM - Data Warehouse](https://github.com/Boutanfitsalma/Data-Warehouse-LLM-Benchmark)
+###  [EvalLLM - Data Warehouse](https://github.com/Boutanfitsalma/Data-Warehouse-LLM-Benchmark)
 ```
 Star schema data warehouse analyzing 4500+ LLM evaluations
 ETL pipelines | SSIS/SSAS/SSRS | Power BI dashboards | SCD Type 2
 ```
 **Impact** : Support à la décision pour choix de modèles LLM
 
-### 🚀 [YouTube MLOps Pipeline](https://github.com/Boutanfitsalma/YouTube-MLOps-analysis-pipeline)
+###  [YouTube MLOps Pipeline](https://github.com/Boutanfitsalma/YouTube-MLOps-analysis-pipeline)
 ```
 Automated sentiment analysis pipeline with agentic AI
 n8n orchestration | HuggingFace NLP | WhatsApp triggers | Gmail reports
 ```
 **Impact** : Analyse automatisée de milliers de commentaires
 
-### 🛒 [E-commerce Analytics - Olist](https://github.com/Boutanfitsalma/ecommerce-ml-analysis)
+###  [E-commerce Analytics - Olist](https://github.com/Boutanfitsalma/ecommerce-ml-analysis)
 ```
 Multi-table data processing with clustering & regression
 Pandas | Scikit-learn | Hierarchical clustering | Linear regression
 ```
 **Impact** : Identification de patterns de délais de livraison
 
-### 📈 [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
+###  [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
 ```
 Operational BI dashboard for IT service performance
 Power BI | DAX measures | KPI tracking
@@ -148,11 +148,16 @@ Power BI | DAX measures | KPI tracking
 
 ## 🎓 Certifications
 
-🏅 **Senior Data Scientist Career Track** - 365 Data Science (Novembre 2025)  
+🏅 **Senior Data Scientist Career Track** - 365 Data Science (Novembre 2025)
+
 🏅 **Associate Data Analyst** - DataCamp (Juin 2025)  
+
 🏅 **Data Warehousing Concepts** - DataCamp (Avril 2025)
+
 🏅 **Introduction to NoSQL** - DataCamp, Avril 2025
+
 🏅**Containerization and Virtualization Concepts** - DataCamp, Avril 2025
+
 📚 **Formation En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
 
 ---
@@ -213,9 +218,9 @@ mindmap
 
 ## 🤝 Engagement Associatif
 
-🎗️ **Responsable cellule dons** - Club CINDH ENSIAS  
-📚 **Soutien scolaire** pour enfants en situation difficile  
-👨‍🏫 **Formations estivales** pour élèves de classes préparatoires
+ **Responsable cellule dons** - Club CINDH ENSIAS  
+ **Soutien scolaire** pour enfants en situation difficile  
+ **Formations estivales** pour élèves de classes préparatoires
 
 ---
 
