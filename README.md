@@ -84,14 +84,14 @@
 
 ## 💼 Expériences Professionnelles
 
-###  Direction Générale des Impôts (DGI)
+###  Direction Générale des Impôts (DGI) -  [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
 **Stagiaire Data Science & IA** | Juillet - Septembre 2025 | Rabat
 - Développement d'un **chatbot RAG intelligent** pour faciliter la consultation du Code Général des Impôts
 - Pipeline complet : OCR, chunking, extraction de tableaux, indexation vectorielle
 - Déploiement **Docker** avec ChromaDB et FastAPI
 - **Technologies** : Python, LangChain, ChromaDB, OpenRouter, Docker
 
-###  Office National de l'Eau Potable (ONEE)
+###  Office National de l'Eau Potable (ONEE) - [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
 **Stagiaire Data Analyst** | Juillet - Août 2024 | Rabat
 - Analyse de **6000+ enregistrements** de la plateforme Khadamat
 - Création de **tableaux de bord Power BI** pour le suivi opérationnel IT
@@ -100,14 +100,7 @@
 
 ---
 
-## 🎯 Projets Phares
-
-###  [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
-```
-Production-ready RAG chatbot for Moroccan Tax Administration
-Multilingual (FR/AR) | FastAPI + LangChain + ChromaDB | Dockerized
-```
-**Impact** : Réduction de 70% du temps de recherche documentaire
+##  Projets Académiques
 
 ###  [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
 ```
@@ -137,14 +130,8 @@ Pandas | Scikit-learn | Hierarchical clustering | Linear regression
 ```
 **Impact** : Identification de patterns de délais de livraison
 
-###  [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
-```
-Operational BI dashboard for IT service performance
-Power BI | DAX measures | KPI tracking
-```
-**Impact** : Visualisation temps réel de 6000+ tickets
+### 
 
----
 
 ## 🎓 Certifications
 
