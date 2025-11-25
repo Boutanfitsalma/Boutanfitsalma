@@ -19,8 +19,9 @@
 
 🔍 **Actuellement à la recherche d'un stage PFE (4-6 mois)** à partir de **février 2026** en Data Science, BI ou IA.
 
-💡 J'ai développé des solutions complètes allant de **chatbots RAG** pour l'administration fiscale à des **pipelines MLOps automatisés**, en passant par des **entrepôts décisionnels** et des **systèmes de monitoring temps réel**.
+ J'ai développé des solutions complètes allant de **chatbots RAG** pour l'administration fiscale à des **pipelines MLOps automatisés**, en passant par des **entrepôts décisionnels** et des **systèmes de monitoring temps réel**.
 
+🔗 **[Explorez tous mes projets →](https://github.com/Boutanfitsalma?tab=repositories)**
 ---
 
 ## 🛠️ Stack Technique
