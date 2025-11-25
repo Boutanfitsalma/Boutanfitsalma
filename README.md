@@ -100,7 +100,7 @@
 
 ---
 
-##  Projets Académiques
+##   Projets Académiques
 
 ###  [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
 ```
@@ -130,7 +130,14 @@ Pandas | Scikit-learn | Hierarchical clustering | Linear regression
 ```
 **Impact** : Identification de patterns de délais de livraison
 
-### 
+###  [Hospital Pharmaceutical Management Dashboard](https://github.com/Boutanfitsalma/pharma-management-dashboard)
+
+```
+Strategic BI dashboard for medication management at CHU Mohammed VI 
+Power BI | Power Query | DAX | What-if analysis
+```
+**Impact** : Optimisation de la gestion pharmaceutique pour 10+ services hospitaliers
+
 
 
 ## 🎓 Certifications
