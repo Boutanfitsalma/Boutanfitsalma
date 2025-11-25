@@ -244,6 +244,5 @@ mindmap
 
 ### ⭐ Si mes projets vous intéressent, n'hésitez pas à les explorer !
 
-![Profile Views](https://komarev.com/ghpvc/?username=Boutanfitsalma&color=blueviolet&style=flat-square)
 
 </div>
