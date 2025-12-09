@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutanfitsalma1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://boutanfitsalma.github.io/portfolio/)
-[![Location](Casablanca-Rabat)]
+![Location](https://img.shields.io/badge/Location-Casablanca--Rabat-blue?style=for-the-badge&logo=google-maps&logoColor=white)
 
 </div>
 
