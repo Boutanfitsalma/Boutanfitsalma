@@ -143,17 +143,6 @@ Power BI | Power Query | DAX | What-if analysis
 
 📚 **Formation En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-gh-stats.vercel.app/api?username=Boutanfitsalma&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boutanfitsalma&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -177,11 +166,6 @@ mindmap
       LangChain
       Generative AI
       NLP
-    Big Data
-      Elasticsearch
-      Spark & Kafka
-      Real-time Streaming
-      Log Analytics
     MLOps
       Docker
       CI/CD
