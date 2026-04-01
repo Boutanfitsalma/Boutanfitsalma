@@ -17,8 +17,6 @@
 
 Élève ingénieure en Business Intelligence & Analytics à l'ENSIAS, passionnée par la **Data Science**, l'**IA générative** et l'**analyse décisionnelle**. 
 
-🔍 **Actuellement à la recherche d'un stage PFE (4-6 mois)** à partir de **février 2026** en Data Science, BI ou IA.
-
  J'ai développé des solutions complètes allant de **chatbots RAG** pour l'administration fiscale à des **pipelines MLOps automatisés**, en passant par des **entrepôts décisionnels** et des **systèmes de monitoring temps réel**.
 
 🔗 **[Explorez tous mes projets →](https://github.com/Boutanfitsalma?tab=repositories)**
@@ -223,7 +221,6 @@ mindmap
 
 <div align="center">
 
-**🔍 Disponible pour un stage PFE de 4-6 mois à partir de février 2026**
 
 [![Email](https://img.shields.io/badge/boutanfitsalma1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutanfitsalma1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/salma--boutanfit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
