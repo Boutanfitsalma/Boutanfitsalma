@@ -2,7 +2,7 @@
 
 # 👋 Salma Boutanfit
 
-### 🎓 Data Science & Business Intelligence Engineer Student | ENSIAS Rabat
+### 🎓 Data Science & AI Engineer Student | ENSIAS Rabat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutanfitsalma1@gmail.com)
@@ -13,13 +13,14 @@
 
 ---
 
-##  À propos
+## À propos
 
-Élève ingénieure en Business Intelligence & Analytics à l'ENSIAS, passionnée par la **Data Science**, l'**IA générative** et l'**analyse décisionnelle**. 
+Élève ingénieure en Data Science & AI à l'ENSIAS, passionnée par la **Data Science**, l'**IA générative** et l'**analyse décisionnelle**.
 
- J'ai développé des solutions complètes allant de **chatbots RAG** pour l'administration fiscale à des **pipelines MLOps automatisés**, en passant par des **entrepôts décisionnels** et des **systèmes de monitoring temps réel**.
+J'ai développé des solutions complètes allant de **chatbots RAG** pour l'administration fiscale à des **pipelines MLOps automatisés**, en passant par des **entrepôts décisionnels** et des **systèmes de monitoring temps réel**.
 
 🔗 **[Explorez tous mes projets →](https://github.com/Boutanfitsalma?tab=repositories)**
+
 ---
 
 ## 🛠️ Stack Technique
@@ -28,15 +29,15 @@
 <tr>
 <td width="50%" valign="top">
 
-###  Data & Databases
+### Data & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-###  Business Intelligence
+### Business Intelligence
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -44,105 +45,132 @@
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
-
-
 </td>
 <td width="50%" valign="top">
 
-###  AI & Machine Learning
+### AI & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-###  DevOps & MLOps
+### DevOps & MLOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
-
 </td>
 </tr>
 </table>
+
 ---
 
 ## 💼 Expériences Professionnelles
 
-###  Direction Générale des Impôts (DGI) -  [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
-**Stagiaire Data Science & IA** | Juillet - Septembre 2025 | Rabat
-- Développement d'un **chatbot RAG intelligent** pour faciliter la consultation du Code Général des Impôts
-- Pipeline complet : OCR, chunking, extraction de tableaux, indexation vectorielle
-- Déploiement **Docker** avec ChromaDB et FastAPI
-- **Technologies** : Python, LangChain, ChromaDB, OpenRouter, Docker
+### 🏢 Maroclear — Junior Data Scientist & AI Engineer — PFE
+**Février – Août 2026 (6 mois)** | Casablanca
 
-###  Office National de l'Eau Potable (ONEE) - [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
-**Stagiaire Data Analyst** | Juillet - Août 2024 | Rabat
-- Analyse de **6000+ enregistrements** de la plateforme Khadamat
-- Création de **tableaux de bord Power BI** pour le suivi opérationnel IT
-- Métriques : temps de résolution, taux d'escalade, gestion des urgences
-- **Technologies** : Power BI, DAX, Excel, Python
+Agent conversationnel intelligent dual pour la qualification et le guidage des affiliés (en cours de déploiement).
+
+- **Système RAG réglementaire public** : base de connaissances pour visiteurs — informations institutionnelles, documents réglementaires (Dahirs, Règlement Général), processus d'affiliation
+- **Agent support privé** : guide conversationnel pour affiliés authentifiés — navigation intelligente, extraction automatique de champs via dialogue naturel, pré-remplissage de formulaires
+- Classification automatique (Incident / Demande / Réclamation) + moteur de prioritisation (P1–P4) avec détection d'anomalies (incidents en masse, récurrence)
+- Architecture sécurisée : traitement local des données sensibles, zéro exposition externe, conformité infrastructure critique financière — déploiement Docker en production
+
+**Technologies :** Python, LangChain, LangGraph, RAG, ChromaDB, Local LLM, FastAPI, Docker
 
 ---
 
-##   Projets Académiques
+### 🏢 Direction Générale des Impôts (DGI) — [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
+**Juillet – Septembre 2025 (3 mois)** | Rabat
 
-###  [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
+- Conception et déploiement d'un **chatbot multilingue FR/AR** basé RAG pour accès conversationnel à la documentation fiscale
+- **Pipeline complet OCR + NLP** : extraction de 1 240+ documents scannés historiques, chunking intelligent, vectorisation sémantique, indexation optimisée, retrieval augmenté en production
+- Déploiement dockerisé : latence < 5 secondes, haute disponibilité, robustesse sur requêtes multi-documents complexes
+
+**Technologies :** Python, LangChain, FastAPI, ChromaDB, OpenRouter, Docker, RAG Pipeline, OCR, NLP
+
+---
+
+### 🏢 Office National de l'Eau Potable (ONEE) — [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
+**Juillet – Août 2024 (2 mois)** | Rabat
+
+- Analyse exploratoire et préparation de **6 000+ enregistrements** de la plateforme Khadamat : nettoyage, transformation, feature engineering
+- Conception de **10+ KPIs opérationnels** : MTTR, taux d'escalade, détection d'urgences critiques, analyse de tendances
+- Développement de **tableaux de bord Power BI** pour la visualisation de la performance IT et l'aide à la décision
+
+**Technologies :** Python (Pandas, NumPy), Power BI, DAX, SQL
+
+---
+
+## 📁 Projets Académiques
+
+### 🔍 [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
 ```
 Real-time log monitoring pipeline with anomaly detection
 Elasticsearch ML | Kibana Dashboards | Docker orchestration
 ```
-**Impact** : Détection automatique d'anomalies sur 10K+ builds/jour
+**Impact** : Détection automatique d'anomalies sur 10 000+ builds/jour
 
-###  [EvalLLM - Data Warehouse](https://github.com/Boutanfitsalma/Data-Warehouse-LLM-Benchmark)
+---
+
+### 📊 [EvalLLM - Data Warehouse](https://github.com/Boutanfitsalma/Data-Warehouse-LLM-Benchmark)
 ```
 Star schema data warehouse analyzing 4500+ LLM evaluations
 ETL pipelines | SSIS/SSAS/SSRS | Power BI dashboards | SCD Type 2
 ```
-**Impact** : Support à la décision pour choix de modèles LLM
+**Impact** : Support à la décision pour le choix de modèles LLM
 
-###  [YouTube MLOps Pipeline](https://github.com/Boutanfitsalma/YouTube-MLOps-analysis-pipeline)
+---
+
+### 🤖 [YouTube MLOps Pipeline](https://github.com/Boutanfitsalma/YouTube-MLOps-analysis-pipeline)
 ```
 Automated sentiment analysis pipeline with agentic AI
 n8n orchestration | HuggingFace NLP | WhatsApp triggers | Gmail reports
 ```
 **Impact** : Analyse automatisée de milliers de commentaires
 
-###  [E-commerce Analytics - Olist](https://github.com/Boutanfitsalma/ecommerce-ml-analysis)
+---
+
+### 🛒 [E-commerce Analytics - Olist](https://github.com/Boutanfitsalma/ecommerce-ml-analysis)
 ```
 Multi-table data processing with clustering & regression
 Pandas | Scikit-learn | Hierarchical clustering | Linear regression
 ```
 **Impact** : Identification de patterns de délais de livraison
 
-###  [Hospital Pharmaceutical Management Dashboard](https://github.com/Boutanfitsalma/pharma-management-dashboard)
+---
 
+### 🏥 [Hospital Pharmaceutical Management Dashboard](https://github.com/Boutanfitsalma/pharma-management-dashboard)
 ```
-Strategic BI dashboard for medication management at CHU Mohammed VI 
+Strategic BI dashboard for medication management at CHU Mohammed VI
 Power BI | Power Query | DAX | What-if analysis
 ```
 **Impact** : Optimisation de la gestion pharmaceutique pour 10+ services hospitaliers
 
-
+---
 
 ## 🎓 Certifications
 
-🏅 **Senior Data Scientist Career Track** - 365 Data Science (Novembre 2025)
+🏅 **AI Agent Architecture** — 365 Data Science (Mars 2026)
 
-🏅 **Associate Data Analyst** - DataCamp (Juin 2025)  
+🏅 **Designing Agentic Systems with LangChain** — DataCamp (Mars 2026)
 
-🏅 **Data Warehousing Concepts** - DataCamp (Avril 2025)
+🏅 **Senior Data Scientist Career Track** — 365 Data Science (Novembre 2025)
 
-🏅 **Introduction to NoSQL** - DataCamp, Avril 2025
+🏅 **Associate Data Analyst** — DataCamp (Juin 2025)
 
-🏅**Containerization and Virtualization Concepts** - DataCamp, Avril 2025
+🏅 **Data Warehousing Concepts** — DataCamp (Avril 2025)
 
-📚 **Formation En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
+🏅 **Introduction to NoSQL** — DataCamp (Avril 2025)
 
+🏅 **Containerization and Virtualization Concepts** — DataCamp (Avril 2025)
+
+📚 **En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
 
 ---
 
@@ -163,7 +191,7 @@ mindmap
       Clustering & Regression
     AI & LLMs
       RAG Systems
-      LangChain
+      LangChain / LangGraph
       Generative AI
       NLP
     MLOps
@@ -177,17 +205,17 @@ mindmap
 
 ## 💬 Langues
 
-🇲🇦 **Arabe** - Natif  
-🇫🇷 **Français** - Courant  
-🇬🇧 **Anglais** - Courant
+🇲🇦 **Arabe** — Natif
+🇫🇷 **Français** — Courant
+🇬🇧 **Anglais** — Courant
 
 ---
 
 ## 🤝 Engagement Associatif
 
- **Responsable cellule dons** - Club CINDH ENSIAS  
- **Soutien scolaire** pour enfants en situation difficile  
- **Formations estivales** pour élèves de classes préparatoires
+🤲 **Responsable cellule dons** — Club CINDH ENSIAS
+📚 **Soutien scolaire** pour enfants en situation difficile
+🎓 **Formations estivales** pour élèves de classes préparatoires
 
 ---
 
@@ -195,12 +223,11 @@ mindmap
 
 <div align="center">
 
-
 [![Email](https://img.shields.io/badge/boutanfitsalma1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutanfitsalma1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/salma--boutanfit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
 [![Phone](https://img.shields.io/badge/+212_629_239_131-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212629239131)
 
-📍 **Casablanca, Rabat, Mohammedia - Maroc**
+📍 **Casablanca, Rabat, Mohammedia — Maroc**
 
 </div>
 
@@ -209,6 +236,5 @@ mindmap
 <div align="center">
 
 ### ⭐ Si mes projets vous intéressent, n'hésitez pas à les explorer !
-
 
 </div>
