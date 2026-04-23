@@ -2,7 +2,7 @@
 
 # 👋 Salma Boutanfit
 
-### 🎓 Data Science & AI Engineer Student | ENSIAS Rabat
+###  Data Science & AI Engineer Student | ENSIAS Rabat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutanfitsalma1@gmail.com)
@@ -23,7 +23,7 @@ Passionnée par la **Data Science**, l'**IA générative** et les **systèmes mu
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 <table>
 <tr>
@@ -69,23 +69,24 @@ Passionnée par la **Data Science**, l'**IA générative** et les **systèmes mu
 
 ---
 
-## 💼 Expériences Professionnelles
+##  Expériences Professionnelles
 
-### 🏢 Maroclear — Junior Data Scientist & AI Engineer — PFE
+###  Maroclear — Junior Data Scientist & AI Engineer — PFE
 **Février – Août 2026 (6 mois)** | Casablanca
 
-Agent conversationnel intelligent dual pour la qualification et le guidage des affiliés (en cours de déploiement).
+Conception et déploiement d'un **système multi-agents conversationnel** pour le dépositaire central des valeurs mobilières du Maroc. Le système orchestre **5 agents spécialisés** via LangGraph pour couvrir deux périmètres distincts : portail public et espace privé affiliés.
 
-- **Système RAG réglementaire public** : base de connaissances pour visiteurs — informations institutionnelles, documents réglementaires (Dahirs, Règlement Général), processus d'affiliation
-- **Agent support privé** : guide conversationnel pour affiliés authentifiés — navigation intelligente, extraction automatique de champs via dialogue naturel, pré-remplissage de formulaires
-- Classification automatique (Incident / Demande / Réclamation) + moteur de prioritisation (P1–P4) avec détection d'anomalies (incidents en masse, récurrence)
-- Architecture sécurisée : traitement local des données sensibles, zéro exposition externe, conformité infrastructure critique financière — déploiement Docker en production
+- **Agent Orchestrateur** : routage intelligent des requêtes, gestion du contexte et de la mémoire conversationnelle, coordination des agents spécialisés
+- **Agent RAG Général** : répond aux questions institutionnelles (missions, services, glossaire financier) via retrieval hybride sur ChromaDB + glossaire métier CSV
+- **Agent RAG Réglementaire** : conseiller juridique sur le Recueil AMMC (857 pages), Dahirs, Règlement Général — couverture de 5 thématiques réglementaires (dépositaire central, OPCVM, APE, LBC-FT, sanctions)
+- **Agent Classification** : identification automatique Incident / Demande / Réclamation — benchmark de 3 approches (ML supervisé, Zero-Shot LLM, Few-Shot hybride), régression logistique retenue
+- **Agent Auto-fill** : extraction conversationnelle des champs structurés, pré-remplissage automatique des formulaires MyMaroclear (incidents, demandes, réclamations)
+- Architecture sécurisée : LLM local (Ollama), zéro exposition externe, conformité infrastructure financière critique — déploiement Docker production
 
-**Technologies :** Python, LangChain, LangGraph, RAG, ChromaDB, Local LLM, FastAPI, Docker
-
+**Technologies :** Python, LangChain, LangGraph, RAG, ChromaDB, Ollama (Local LLM), OpenRouter, FastAPI, React, Docker
 ---
 
-### 🏢 Direction Générale des Impôts (DGI) — [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
+###  Direction Générale des Impôts (DGI) — [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
 **Juillet – Septembre 2025 (3 mois)** | Rabat
 
 - Conception et déploiement d'un **chatbot multilingue FR/AR** basé RAG pour accès conversationnel à la documentation fiscale
@@ -96,7 +97,7 @@ Agent conversationnel intelligent dual pour la qualification et le guidage des a
 
 ---
 
-### 🏢 Office National de l'Eau Potable (ONEE) — [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
+###  Office National de l'Eau Potable (ONEE) — [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
 **Juillet – Août 2024 (2 mois)** | Rabat
 
 - Analyse exploratoire et préparation de **6 000+ enregistrements** de la plateforme Khadamat : nettoyage, transformation, feature engineering
@@ -107,9 +108,9 @@ Agent conversationnel intelligent dual pour la qualification et le guidage des a
 
 ---
 
-## 📁 Projets Académiques
+##  Projets Académiques
 
-### 🔍 [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
+###  [ELK Stack + ML - Firefox Build Monitoring](https://github.com/Boutanfitsalma/firefox-build-log-monitoring-elk)
 ```
 Real-time log monitoring pipeline with anomaly detection
 Elasticsearch ML | Kibana Dashboards | Docker orchestration
@@ -118,7 +119,7 @@ Elasticsearch ML | Kibana Dashboards | Docker orchestration
 
 ---
 
-### 📊 [EvalLLM - Data Warehouse](https://github.com/Boutanfitsalma/Data-Warehouse-LLM-Benchmark)
+###  [EvalLLM - Data Warehouse](https://github.com/Boutanfitsalma/Data-Warehouse-LLM-Benchmark)
 ```
 Star schema data warehouse analyzing 4500+ LLM evaluations
 ETL pipelines | SSIS/SSAS/SSRS | Power BI dashboards | SCD Type 2
@@ -127,7 +128,7 @@ ETL pipelines | SSIS/SSAS/SSRS | Power BI dashboards | SCD Type 2
 
 ---
 
-### 🤖 [YouTube MLOps Pipeline](https://github.com/Boutanfitsalma/YouTube-MLOps-analysis-pipeline)
+###  [YouTube MLOps Pipeline](https://github.com/Boutanfitsalma/YouTube-MLOps-analysis-pipeline)
 ```
 Automated sentiment analysis pipeline with agentic AI
 n8n orchestration | HuggingFace NLP | WhatsApp triggers | Gmail reports
@@ -136,7 +137,7 @@ n8n orchestration | HuggingFace NLP | WhatsApp triggers | Gmail reports
 
 ---
 
-### 🛒 [E-commerce Analytics - Olist](https://github.com/Boutanfitsalma/ecommerce-ml-analysis)
+###  [E-commerce Analytics - Olist](https://github.com/Boutanfitsalma/ecommerce-ml-analysis)
 ```
 Multi-table data processing with clustering & regression
 Pandas | Scikit-learn | Hierarchical clustering | Linear regression
@@ -145,7 +146,7 @@ Pandas | Scikit-learn | Hierarchical clustering | Linear regression
 
 ---
 
-### 🏥 [Hospital Pharmaceutical Management Dashboard](https://github.com/Boutanfitsalma/pharma-management-dashboard)
+###  [Hospital Pharmaceutical Management Dashboard](https://github.com/Boutanfitsalma/pharma-management-dashboard)
 ```
 Strategic BI dashboard for medication management at CHU Mohammed VI
 Power BI | Power Query | DAX | What-if analysis
@@ -156,34 +157,29 @@ Power BI | Power Query | DAX | What-if analysis
 
 ## 🎓 Certifications
 
-🏅 **AI Agent Architecture** — 365 Data Science (Mars 2026)
+ **AI Agent Architecture** — 365 Data Science (Mars 2026)
 
-🏅 **Designing Agentic Systems with LangChain** — DataCamp (Mars 2026)
+ **Designing Agentic Systems with LangChain** — DataCamp (Mars 2026)
 
-🏅 **Senior Data Scientist Career Track** — 365 Data Science (Novembre 2025)
+ **Senior Data Scientist Career Track** — 365 Data Science (Novembre 2025)
 
-🏅 **Associate Data Analyst** — DataCamp (Juin 2025)
+ **Associate Data Analyst** — DataCamp (Juin 2025)
 
-🏅 **Data Warehousing Concepts** — DataCamp (Avril 2025)
+ **Data Warehousing Concepts** — DataCamp (Avril 2025)
 
-🏅 **Introduction to NoSQL** — DataCamp (Avril 2025)
+ **Introduction to NoSQL** — DataCamp (Avril 2025)
 
-🏅 **Containerization and Virtualization Concepts** — DataCamp (Avril 2025)
+ **Containerization and Virtualization Concepts** — DataCamp (Avril 2025)
 
-📚 **En cours** : Google Cloud Platform (GCP) | Microsoft Azure | AWS
+ **En cours** : Microsoft Azure | AWS
 
 ---
 
-## 🌟 Domaines d'Expertise
+##  Domaines d'Expertise
 
 ```mermaid
 mindmap
   root((Salma<br/>Boutanfit))
-    Business Intelligence
-      Data Warehousing
-      ETL Pipelines
-      Power BI Dashboards
-      SSIS/SSAS/SSRS
     Data Science
       Machine Learning
       Python Analytics
