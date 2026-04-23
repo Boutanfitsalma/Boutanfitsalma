@@ -15,9 +15,9 @@
 
 ## À propos
 
-Élève ingénieure en Data Science & AI à l'ENSIAS, passionnée par la **Data Science**, l'**IA générative** et l'**analyse décisionnelle**.
+Élève ingénieure en Data Science & AI à l'ENSIAS (diplôme : Juillet 2026), **à la recherche d'un CDI en tant que Data Scientist / AI Engineer à partir de Septembre 2026**.
 
-J'ai développé des solutions complètes allant de **chatbots RAG** pour l'administration fiscale à des **pipelines MLOps automatisés**, en passant par des **entrepôts décisionnels** et des **systèmes de monitoring temps réel**.
+Passionnée par la **Data Science**, l'**IA générative** et les **systèmes multi-agents**, j'ai développé des solutions complètes allant de **systèmes multi-agents RAG** pour le secteur financier à des **chatbots intelligents** pour l'administration fiscale, en passant par des **pipelines MLOps automatisés** et des **entrepôts décisionnels**.
 
 🔗 **[Explorez tous mes projets →](https://github.com/Boutanfitsalma?tab=repositories)**
 
