@@ -71,33 +71,33 @@ Passionnée par la **Data Science**, l'**IA générative** et les **systèmes mu
 
 ##  Expériences Professionnelles
 
-###  Maroclear — Junior Data Scientist & AI Engineer — PFE
+###  Maroclear - Data Scientist & AI Engineer - PFE
 **Février – Août 2026 (6 mois)** | Casablanca
 
 Conception et déploiement d'un **système multi-agents conversationnel** pour le dépositaire central des valeurs mobilières du Maroc. Le système orchestre **5 agents spécialisés** via LangGraph pour couvrir deux périmètres distincts : portail public et espace privé affiliés.
 
 - **Agent Orchestrateur** : routage intelligent des requêtes, gestion du contexte et de la mémoire conversationnelle, coordination des agents spécialisés
 - **Agent RAG Général** : répond aux questions institutionnelles (missions, services, glossaire financier) via retrieval hybride sur ChromaDB + glossaire métier CSV
-- **Agent RAG Réglementaire** : conseiller juridique sur le Recueil AMMC (857 pages), Dahirs, Règlement Général — couverture de 5 thématiques réglementaires (dépositaire central, OPCVM, APE, LBC-FT, sanctions)
-- **Agent Classification** : identification automatique Incident / Demande / Réclamation — benchmark de 3 approches (ML supervisé, Zero-Shot LLM, Few-Shot hybride), régression logistique retenue
+- **Agent RAG Réglementaire** : conseiller juridique sur le Recueil AMMC (857 pages), Dahirs, Règlement Général - couverture de 5 thématiques réglementaires (dépositaire central, OPCVM, APE, LBC-FT, sanctions)
+- **Agent Classification** : identification automatique Incident / Demande / Réclamation - benchmark de 3 approches (ML supervisé, Zero-Shot LLM, Few-Shot hybride), régression logistique retenue
 - **Agent Auto-fill** : extraction conversationnelle des champs structurés, pré-remplissage automatique des formulaires MyMaroclear (incidents, demandes, réclamations)
-- Architecture sécurisée : LLM local (Ollama), zéro exposition externe, conformité infrastructure financière critique — déploiement Docker production
+- Architecture sécurisée : LLM local (Ollama), zéro exposition externe, conformité infrastructure financière critique - déploiement Docker production
 
 **Technologies :** Python, LangChain, LangGraph, RAG, ChromaDB, Ollama (Local LLM), OpenRouter, FastAPI, React, Docker
+
 ---
 
-###  Direction Générale des Impôts (DGI) — [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
+###  Direction Générale des Impôts (DGI) - [Assistant Fiscal Intelligent - RAG Chatbot](https://github.com/Boutanfitsalma/moroccan-fiscal-rag-chatbot)
 **Juillet – Septembre 2025 (3 mois)** | Rabat
 
 - Conception et déploiement d'un **chatbot multilingue FR/AR** basé RAG pour accès conversationnel à la documentation fiscale
 - **Pipeline complet OCR + NLP** : extraction de 1 240+ documents scannés historiques, chunking intelligent, vectorisation sémantique, indexation optimisée, retrieval augmenté en production
-- Déploiement dockerisé : latence < 5 secondes, haute disponibilité, robustesse sur requêtes multi-documents complexes
-
+- Déploiement dockerisé : latence < 5 secondes, haute disponibilité, robustesse sur requêtes multi-documents complexes 
 **Technologies :** Python, LangChain, FastAPI, ChromaDB, OpenRouter, Docker, RAG Pipeline, OCR, NLP
 
 ---
 
-###  Office National de l'Eau Potable (ONEE) — [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
+###  Office National de l'Eau Potable (ONEE) - [ONEE Service Center Dashboard](https://github.com/Boutanfitsalma/ONEE-Service-Center-Analytics)
 **Juillet – Août 2024 (2 mois)** | Rabat
 
 - Analyse exploratoire et préparation de **6 000+ enregistrements** de la plateforme Khadamat : nettoyage, transformation, feature engineering
@@ -157,19 +157,19 @@ Power BI | Power Query | DAX | What-if analysis
 
 ## 🎓 Certifications
 
- **AI Agent Architecture** — 365 Data Science (Mars 2026)
+ **AI Agent Architecture** - 365 Data Science (Mars 2026)
 
- **Designing Agentic Systems with LangChain** — DataCamp (Mars 2026)
+ **Designing Agentic Systems with LangChain** - DataCamp (Mars 2026)
 
- **Senior Data Scientist Career Track** — 365 Data Science (Novembre 2025)
+ **Senior Data Scientist Career Track** - 365 Data Science (Novembre 2025)
 
- **Associate Data Analyst** — DataCamp (Juin 2025)
+ **Associate Data Analyst** - DataCamp (Juin 2025)
 
- **Data Warehousing Concepts** — DataCamp (Avril 2025)
+ **Data Warehousing Concepts** - DataCamp (Avril 2025)
 
- **Introduction to NoSQL** — DataCamp (Avril 2025)
+ **Introduction to NoSQL** - DataCamp (Avril 2025)
 
- **Containerization and Virtualization Concepts** — DataCamp (Avril 2025)
+ **Containerization and Virtualization Concepts** - DataCamp (Avril 2025)
 
  **En cours** : Microsoft Azure | AWS
 
@@ -201,15 +201,15 @@ mindmap
 
 ## 💬 Langues
 
-🇲🇦 **Arabe** — Natif
-🇫🇷 **Français** — Courant
-🇬🇧 **Anglais** — Courant
+🇲🇦 **Arabe** - Natif
+🇫🇷 **Français** - Courant
+🇬🇧 **Anglais** - Courant
 
 ---
 
 ## 🤝 Engagement Associatif
 
-🤲 **Responsable cellule dons** — Club CINDH ENSIAS
+🤲 **Responsable cellule dons** - Club CINDH ENSIAS
 📚 **Soutien scolaire** pour enfants en situation difficile
 🎓 **Formations estivales** pour élèves de classes préparatoires
 
@@ -223,7 +223,7 @@ mindmap
 [![LinkedIn](https://img.shields.io/badge/salma--boutanfit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
 [![Phone](https://img.shields.io/badge/+212_629_239_131-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212629239131)
 
-📍 **Casablanca, Rabat, Mohammedia — Maroc**
+📍 **Casablanca, Rabat, Mohammedia - Maroc**
 
 </div>
 
