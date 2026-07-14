@@ -2,7 +2,7 @@
 
 # 👋 Salma Boutanfit
 
-###  Data Science & AI Engineer Student | ENSIAS Rabat
+### Data Scientist & AI Engineer | Diplômée ENSIAS Rabat (Promotion 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-boutanfit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutanfitsalma1@gmail.com)
@@ -15,9 +15,9 @@
 
 ## À propos
 
-Élève ingénieure en Data Science & AI à l'ENSIAS (diplôme : Juillet 2026), **à la recherche d'un CDI en tant que Data Scientist / AI Engineer à partir de Septembre 2026**.
+Ingénieure diplômée de l'ENSIAS (promotion 2026), spécialisée en Data Science et Intelligence Artificielle. Disponible pour un CDI/CDD dès le 24 août 2026.
 
-Passionnée par la **Data Science**, l'**IA générative** et les **systèmes multi-agents**, j'ai développé des solutions complètes allant de **systèmes multi-agents** pour le secteur financier à des **chatbots intelligents basé sur RAG** pour l'administration fiscale et des **pipelines MLOps automatisés** .
+Passionnée par la Data Science, l'IA générative et les systèmes multi-agents, j'ai développé des solutions de bout en bout allant d'assistants conversationnels basés sur RAG pour l'administration publique à des systèmes multi-agents pour le secteur financier, ainsi que des pipelines d'automatisation et d'analyse de données.
 
 🔗 **[Explorez tous mes projets →](https://github.com/Boutanfitsalma?tab=repositories)**
 
@@ -71,7 +71,7 @@ Passionnée par la **Data Science**, l'**IA générative** et les **systèmes mu
 
 ##  Expériences Professionnelles
 
-###  Maroclear - Data Scientist & AI Engineer - PFE
+### Maroclear - Data Scientist & AI Engineer (Stage de fin d'études)
 **Février – Août 2026 (6 mois)** | Casablanca
 
 Conception et déploiement d'un **système multi-agents conversationnel** pour le dépositaire central des valeurs mobilières du Maroc. Le système orchestre **5 agents spécialisés** via LangGraph pour couvrir deux périmètres distincts : portail public et espace privé affiliés.
@@ -231,6 +231,6 @@ mindmap
 
 <div align="center">
 
-### ⭐ Si mes projets vous intéressent, n'hésitez pas à les explorer !
+### ⭐ Merci pour votre visite ! N'hésitez pas à explorer mes projets ou à me contacter pour échanger autour de la Data Science et de l'IA.
 
 </div>
